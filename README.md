@@ -27,16 +27,6 @@ The project uses the **Simple Graphics Library (SGG)** exclusively for window ma
 - [Simple Graphics Library (SGG)]
 - STL (Standard Template Library)
 
-## How to Build
-
-<!-- Συμπλήρωσε εδώ ανάλογα με το build system σου, π.χ. Visual Studio solution ή Makefile -->
-
-```bash
-# example
-make
-./game
-```
-
 ## How to Play
 
 - **SPACE** — Start the game / respawn after death
